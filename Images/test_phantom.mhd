@@ -1,0 +1,14 @@
+ObjectType = Image
+NDims = 3
+BinaryData = True
+BinaryDataByteOrderMSB = False
+CompressedData = True
+CompressedDataSize = 26641576
+TransformMatrix = 1 0 0 0 1 0 0 0 1
+Offset = 0 0 -159.103
+CenterOfRotation = 0 0 0
+AnatomicalOrientation = RAI
+ElementSpacing = 0.415 0.415 0.832993
+DimSize = 512 512 192
+ElementType = MET_SHORT
+ElementDataFile = test_phantom.zraw
